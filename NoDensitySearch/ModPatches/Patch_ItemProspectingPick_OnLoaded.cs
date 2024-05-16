@@ -21,7 +21,7 @@ namespace NoDensitySearch.ModPatches
 			int densityIdx = -1;
 			for (int i = 0; i < ___toolModes.Length; i++)
 			{
-				if (___toolModes[i].Name == "density")
+				if (___toolModes[i].Code.BeginsWith("game", "density"))
 				{
 					densityIdx = i;
 					break;

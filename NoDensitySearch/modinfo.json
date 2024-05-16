@@ -3,10 +3,7 @@
     "modid": "nodensitysearch",
     "name": "No Density Search",
     "authors": [
-        "Zach2039"
-    ],
-    "contributors": [
-        "Thalius"
+        "Zach2039", "Thalius"
     ],
     "description": "A mod that removes \"density\" search from the prospecting pickaxe",
     "version": "1.0.0",
