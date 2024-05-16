@@ -15,7 +15,7 @@ namespace NoDensitySearch.ModPatches
 	[HarmonyPatch(typeof(ItemProspectingPick), "OnLoaded")]
 	class Patch_ItemProspectingPick_OnLoaded
 	{
-		static void Postfix(ItemAxe __instance, ICoreAPI api, ref SkillItem[] ___toolModes)
+		static void Postfix(ItemProspectingPick __instance, ICoreAPI api, ref SkillItem[] ___toolModes)
 		{
             // Remove density search item from toolMode, if present and found
 			int densityIdx = -1;
