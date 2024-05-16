@@ -30,7 +30,7 @@ namespace NoDensitySearch.ModPatches
 
 			if (densityIdx != -1)
 			{
-				___toolModes.RemoveEntry(densityIdx);
+				___toolModes = ___toolModes.RemoveEntry(densityIdx);
 			}
 		}
 	}
