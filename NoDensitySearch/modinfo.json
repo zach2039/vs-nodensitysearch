@@ -6,7 +6,7 @@
         "Zach2039", "Thalius"
     ],
     "description": "A mod that removes \"density\" search from the prospecting pickaxe",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "dependencies": {
         "game": "*"
     }
