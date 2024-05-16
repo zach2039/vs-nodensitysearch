@@ -1,7 +1,7 @@
-No Density Serach
+No Density Search
 =================
 
-This mod removes the "density" mode search of the prospecting pick. Hope you have "node" search enabled!
+This mod removes the "density" mode search of the prospecting pick. Hope you know your ores and rock strata!
 
 Overview
 --------
@@ -14,7 +14,7 @@ Changes include:
 Compatibility
 --------
 
- - Will be incompatible with mods that patch propick modes and/or mods that have custom propick implementations.
+ - Will be incompatible with mods that patch propick modes and/or mods that have custom propick implementations. Let me know if you need additional mod compat added.
 
 
 Future Plans
@@ -29,3 +29,7 @@ Known Issues
  - None, atm.
 
 
+Extras
+--------
+
+ - Thanks to Thalius for testing and the initial request.
