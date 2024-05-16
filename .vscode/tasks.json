@@ -9,7 +9,7 @@
                 "build",
                 "-c",
                 "Debug",
-                "${workspaceFolder}/NoNodeSearch/NoNodeSearch.csproj"
+                "${workspaceFolder}/NoDensitySearch/NoDensitySearch.csproj"
             ],
             "problemMatcher": "$msCompile"
         },

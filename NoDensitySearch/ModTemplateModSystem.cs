@@ -3,9 +3,9 @@ using Vintagestory.API.Common;
 using Vintagestory.API.Config;
 using Vintagestory.API.Server;
 
-namespace NoNodeSearch
+namespace NoDensitySearch
 {
-    public class NoNodeSearchModSystem : ModSystem
+    public class NoDensitySearchModSystem : ModSystem
     {
         // Called on server and client
         public override void Start(ICoreAPI api)

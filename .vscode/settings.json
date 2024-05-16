@@ -1,5 +1,5 @@
 {
-  "dotnet.defaultSolution": "NoNodeSearch.sln",
+  "dotnet.defaultSolution": "NoDensitySearch.sln",
   "files.associations": {
     "server-*.txt": "log",
     "client-*.txt": "log"

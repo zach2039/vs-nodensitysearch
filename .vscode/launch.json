@@ -21,7 +21,7 @@
                 // "--openWorld" , "modding test world",
                 "--tracelog",
                 "--addModPath",
-                "${workspaceFolder}/NoNodeSearch/bin/Debug/Mods"
+                "${workspaceFolder}/NoDensitySearch/bin/Debug/Mods"
             ],
             "console": "internalConsole",
             "stopAtEntry": false
@@ -41,7 +41,7 @@
             "args": [
                 "--tracelog",
                 "--addModPath",
-                "${workspaceFolder}/NoNodeSearch/bin/Debug/Mods"
+                "${workspaceFolder}/NoDensitySearch/bin/Debug/Mods"
             ],
             "console": "internalConsole",
             "stopAtEntry": false
