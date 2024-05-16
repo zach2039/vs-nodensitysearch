@@ -1,13 +1,16 @@
 {
     "type": "code",
-    "modid": "mymodid",
-    "name": "My Template Mod",
+    "modid": "nodensitysearch",
+    "name": "No Density Search",
     "authors": [
-        "Unknown"
+        "Zach2039"
     ],
-    "description": "To be added",
+    "contributors": [
+        "Thalius"
+    ],
+    "description": "A mod that removes \"density\" search from the prospecting pickaxe",
     "version": "1.0.0",
     "dependencies": {
-        "game": ""
+        "game": "*"
     }
 }
